@@ -1,4 +1,4 @@
-const API_URL = 'https://website-1-703c.onrender.com/api';
+const API_URL = 'https://website-0554.onrender.com//api';
 let token = localStorage.getItem('token');
 
 // Redirect to login if no token on protected pages
